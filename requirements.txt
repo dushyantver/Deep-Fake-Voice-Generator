@@ -1,0 +1,7 @@
+ipykernel
+librosa
+numpy
+pydub
+dvc
+mlflow
+soundfile
